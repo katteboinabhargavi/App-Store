@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.item-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  /*list-style-type: none;*/
+  margin: 10px;
+}
+.image {
+  height: 100px;
+}
+.para-1 {
+  font-family: 'Bree serif';
+  font-size: 15px;
+  color: black;
+}
